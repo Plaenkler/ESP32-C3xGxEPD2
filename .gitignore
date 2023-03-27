@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# VSC and PIO specific
+.pio
+.vscode
