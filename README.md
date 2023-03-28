@@ -10,7 +10,7 @@ ESP32-C3xGxEPD2 is a small experiment how (fast) a display can be fed with image
 <table style="border:none;">
   <tr>
     <td><img src="https://user-images.githubusercontent.com/60503970/228088884-0e24e25c-c46f-4d9d-a664-0f17a8f3f6a4.png"/></td>
-    <td><img src="https://user-images.githubusercontent.com/60503970/228088884-0e24e25c-c46f-4d9d-a664-0f17a8f3f6a4.png"/></td>
+    <td><img src="https://user-images.githubusercontent.com/60503970/228318840-4d86da10-7927-4081-b625-8218398c39a4.JPEG"/></td>
   </tr>
 </table>
 
@@ -18,8 +18,9 @@ ESP32-C3xGxEPD2 is a small experiment how (fast) a display can be fed with image
 
 - [x] Write bitmap to display
 - [x] Minimize source code
-- [ ] Minimize time to update
+- [ ] Minimize time to update ∞
 
 ## Results
 
-The program needs **20694 milliseconds** to draw the bitmap.
+~~The program needs **20694 milliseconds** to draw the bitmap.~~  
+The program needs **7397 milliseconds** to draw the bitmap.
