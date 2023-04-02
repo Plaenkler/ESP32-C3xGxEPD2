@@ -21,6 +21,5 @@ ESP32-C3xGxEPD2 is a small experiment how (fast) a display can be fed with image
 - [ ] Minimize time to update ∞
 
 ## Results
-
-~~The program needs **20694 milliseconds** to draw the bitmap.~~  
+ 
 The program needs **7397 milliseconds** to draw the bitmap.
