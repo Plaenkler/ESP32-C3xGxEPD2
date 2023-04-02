@@ -3,9 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Support me](https://img.shields.io/badge/Support%20me%20%E2%98%95-orange.svg)](https://www.buymeacoffee.com/Plaenkler)
 
-ESP32-C3xGxEPD2 is a small experiment how (fast) a display can be fed with image data by an ESP32-C3 and the library GxEPD2. Accordingly, the goal can be formulated as follows ```t = t_s - t_d → t → 0 ``` 
+ESP32-C3xGxEPD2 is a small experiment how (fast) a display can be fed with image data by an ESP32-C3 and the library GxEPD2.
 
-> t (time) -> 0 represents the difference between the time the program takes to write to the display and the time the display takes to update itself.
+> The experiment only considers the execution time of the program part which is responsible for the display logic.
 
 <table style="border:none;">
   <tr>
